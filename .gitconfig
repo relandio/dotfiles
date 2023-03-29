@@ -1,0 +1,6 @@
+[user]
+	name = landin
+[core]
+	editor = nano
+[init]
+	defaultBranch = main
