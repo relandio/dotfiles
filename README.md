@@ -10,6 +10,18 @@
 
 ### Features
   - bash config
+  - tmux config
+  - kitty config
+  - starship config
+
+### Packages
+  ```
+  apt install -y \
+  curl \
+  git \
+  tmux \
+  kitty \
+  ```
 
 ---
 

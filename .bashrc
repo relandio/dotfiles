@@ -1,6 +1,12 @@
 # GNU bash, supported versions:
 #   5.1
 
+# Install Starship: curl -sS https://starship.rs/install.sh | sh
+# eval "$(starship init bash)"
+
+# Integrating RVM
+# source ~/.rvm/scripts/rvm
+
 # If not running interactively, don't do anything
 case $- in
   *i*) ;;
