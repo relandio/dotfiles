@@ -1,8 +1,8 @@
 <!-- My development environment -->
 
-<h2>
+<h1>
   <samp>DOTFILES</samp>
-</h2>
+</h1>
 
 <p>
   Special thanks to <a href="https://www.reddit.com/r/unixporn">r/unxiporn</a>!
