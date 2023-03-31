@@ -26,7 +26,10 @@
   pavucontrol \
   lightdm \
   nitrogen \
-  pcmanfm
+  pcmanfm \
+  lxappearance \
+  viewnior \
+
   ```
 
 ---
