@@ -21,6 +21,12 @@
   git \
   tmux \
   kitty \
+  xorg \
+  i3 \
+  pavucontrol \
+  lightdm \
+  nitrogen \
+  pcmanfm
   ```
 
 ---
