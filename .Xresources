@@ -1,0 +1,20 @@
+! This are Xresources to make xterm look good, put into ~/.Xresources
+! After changing contents, run:
+! xrdb -merge .Xresources
+
+XTerm*background: #000000
+XTerm*foreground: #EBEFE5
+XTerm*cursorColor: #00FF00
+XTerm*faceName:fixed:size=9
+XTerm*boldFont:fixed:size=9
+XTerm*scrollColor: #000000
+XTerm*borderColor: #000000
+XTerm*fullscreen: never
+XTerm*saveLines: 1000
+XTerm*allowSendEvents: true
+XTerm*visualBell: true
+XTerm*selectToClipboard: true
+XTerm*rightScrollBar: true
+XTerm*eightBitInput: false
+XTerm*sessionMgt: false
+XTerm*loginShell: true

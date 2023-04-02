@@ -13,6 +13,8 @@
   - tmux config
   - kitty config
   - starship config
+  - i3 config
+  - xterm config
 
 ### Packages
   ```
